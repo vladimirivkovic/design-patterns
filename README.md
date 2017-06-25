@@ -7,3 +7,4 @@ In software engineering, a design pattern is a general repeatable solution to a 
 These design patterns are all about class instantiation.
 
 * Abstract Factory
+* Builder
