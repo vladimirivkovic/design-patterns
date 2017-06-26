@@ -129,6 +129,7 @@ PersistenceAttribute input[NUM_ENTRIES] = {
     {Pathway, "error processing"}
 };
 
+/*
 int main() {
     UnixBuilder unixBuilder;
     VmsBuilder vmsBuilder;
@@ -142,3 +143,4 @@ int main() {
     reader.construct(input, NUM_ENTRIES);
     cout << vmsBuilder.getResult()->getState() << endl;
 }
+*/
