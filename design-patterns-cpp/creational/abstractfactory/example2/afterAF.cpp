@@ -136,6 +136,8 @@ public:
  * pick and create a proper factory. Usually that's
  * happening somewhere in program initialization code.
  */
+
+/*
 int main() {
     Factory *factory;
 #ifdef LINUX
@@ -147,3 +149,4 @@ int main() {
     Client *c = new Client(factory);
     c->draw();
 }
+*/
