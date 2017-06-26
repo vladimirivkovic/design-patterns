@@ -8,3 +8,4 @@ These design patterns are all about class instantiation.
 
 * Abstract Factory
 * Builder
+* Factory Method
